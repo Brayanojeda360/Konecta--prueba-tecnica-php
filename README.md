@@ -3,7 +3,7 @@ Prueba técnica completa
 # SOFTWARE PARA CAFETERIA
 Este proyecto permite la creacion de productos, edicion, listar y eliminar.[link del repositorio](https://github.com/Brayanojeda360/Konecta--prueba-tecnica-php.git "link del repositorio")
 Tambien cuenta con un modulo de ventas para los productos e inventarios y descuento en el stock.
-## Desarrollado en XAMPP  v 3.3.0
+## Desarrollado en XAMPP  v 7.4.3
 ## Instalacion
 ###### 1.  Link al repositorio [click aqui](https://github.com/Brayanojeda360/Konecta--prueba-tecnica-php.git "click aqui")
 ###### 2. Descargar los archivos.
